@@ -15,10 +15,10 @@ Besides the Big Sur icons, you can find a circular and rectangular variants of t
 
 <img src="img/screenshot.png" width="180" align="right"/>
 
-1. Navigate to the *Applications* Folder
-2. Right click on the *RStudio.app* and select *Get Info*
+1. Navigate to the *Applications* Folder.
+2. Right click on the *RStudio.app* and select the *Get Info* menu.
 	- Doing so will open a new form that shows some general information about the *RStudio.app* file.
-4. Here, select the icon you prefer, and drag-and-drop it over the RStudio logo on **top right** of the Info window.
+4. Here, select the icon you prefer, and drag-and-drop it over the RStudio logo on **top left** of the Info window.
 5. 👉🏼 *If the RStudio is running, you may need to close and reopen it to get your new icon on the Dock.*
 
 **Note:** This is a temporary solution, and after reinstalling or updating the RStudio, you may need to overwrite your icon again.
