@@ -7,6 +7,7 @@ These are set of alternative icons for RStudio specifically designed to fit macO
 <img src="img/round-and-rect-icons.png" width="50%" align="right"/>
 Besides the Big Sur icons, you can find a circular and rectangular variants of the icons as well. These might be more suitable for Windows or Linux systems.
 
+<br><br>
 
 ## Usage
 
