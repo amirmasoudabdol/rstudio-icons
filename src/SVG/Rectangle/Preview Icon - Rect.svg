@@ -1,25 +1,25 @@
 <svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="1024" height="1024" fill="url(#paint0_linear)"/>
-<path d="M232.776 69H791.224C881.65 69 955 142.35 955 232.776V791.224C955 881.65 881.65 955 791.224 955H232.776C142.35 955 69 881.65 69 791.224V232.776C69 142.35 142.35 69 232.776 69Z" stroke="white" stroke-width="5"/>
+<path d="M232.776 69H791.224C881.65 69 955 142.35 955 232.776V791.224C955 881.65 881.65 955 791.224 955H232.776C142.35 955 69 881.65 69 791.224V232.776C69 142.35 142.35 69 232.776 69Z" stroke="white" stroke-width="10"/>
 <g opacity="0.4">
-<path d="M954.88 69.1204H69.1196V954.88H954.88V69.1204Z" stroke="white" stroke-width="2"/>
-<path d="M202.24 69.1204H69.1196V202.24H202.24V69.1204Z" stroke="white" stroke-width="2"/>
-<path d="M202.24 821.76H69.1196V954.88H202.24V821.76Z" stroke="white" stroke-width="2"/>
-<path d="M954.88 69.1204H821.76V202.24H954.88V69.1204Z" stroke="white" stroke-width="2"/>
-<path d="M954.88 821.76H821.76V954.88H954.88V821.76Z" stroke="white" stroke-width="2"/>
-<path d="M821.76 202.24H202.24V821.76H821.76V202.24Z" stroke="white" stroke-width="2"/>
-<path d="M704 320H320V704H704V320Z" stroke="white" stroke-width="2"/>
-<path d="M512 703.893C618.039 703.893 704 617.932 704 511.893C704 405.855 618.039 319.893 512 319.893C405.961 319.893 320 405.855 320 511.893C320 617.932 405.961 703.893 512 703.893Z" stroke="white" stroke-width="2"/>
-<path d="M512 783.36C661.868 783.36 783.36 661.868 783.36 512C783.36 362.132 661.868 240.64 512 240.64C362.132 240.64 240.64 362.132 240.64 512C240.64 661.868 362.132 783.36 512 783.36Z" stroke="white" stroke-width="2"/>
-<path d="M512 949.76C753.768 949.76 949.76 753.768 949.76 512C949.76 270.232 753.768 74.2401 512 74.2401C270.232 74.2401 74.2402 270.232 74.2402 512C74.2402 753.768 270.232 949.76 512 949.76Z" stroke="white" stroke-width="2"/>
-<path d="M320 0V1024" stroke="white" stroke-width="2"/>
-<path d="M512 0V1024" stroke="white" stroke-width="2"/>
-<path d="M704 0V1024" stroke="white" stroke-width="2"/>
-<path d="M0 704H1024" stroke="white" stroke-width="2"/>
-<path d="M0 512H1024" stroke="white" stroke-width="2"/>
-<path d="M0 320H1024" stroke="white" stroke-width="2"/>
-<path d="M69.1196 69.1204L954.88 954.88" stroke="white" stroke-width="2"/>
-<path d="M69.1196 954.88L954.88 69.1204" stroke="white" stroke-width="2"/>
+<path d="M954.88 69.1204H69.1196V954.88H954.88V69.1204Z" stroke="white" stroke-width="5"/>
+<path d="M202.24 69.1204H69.1196V202.24H202.24V69.1204Z" stroke="white" stroke-width="5"/>
+<path d="M202.24 821.76H69.1196V954.88H202.24V821.76Z" stroke="white" stroke-width="5"/>
+<path d="M954.88 69.1204H821.76V202.24H954.88V69.1204Z" stroke="white" stroke-width="5"/>
+<path d="M954.88 821.76H821.76V954.88H954.88V821.76Z" stroke="white" stroke-width="5"/>
+<path d="M821.76 202.24H202.24V821.76H821.76V202.24Z" stroke="white" stroke-width="5"/>
+<path d="M704 320H320V704H704V320Z" stroke="white" stroke-width="5"/>
+<path d="M512 703.893C618.039 703.893 704 617.932 704 511.893C704 405.855 618.039 319.893 512 319.893C405.961 319.893 320 405.855 320 511.893C320 617.932 405.961 703.893 512 703.893Z" stroke="white" stroke-width="5"/>
+<path d="M512 783.36C661.868 783.36 783.36 661.868 783.36 512C783.36 362.132 661.868 240.64 512 240.64C362.132 240.64 240.64 362.132 240.64 512C240.64 661.868 362.132 783.36 512 783.36Z" stroke="white" stroke-width="5"/>
+<path d="M512 949.76C753.768 949.76 949.76 753.768 949.76 512C949.76 270.232 753.768 74.24 512 74.24C270.232 74.24 74.2402 270.232 74.2402 512C74.2402 753.768 270.232 949.76 512 949.76Z" stroke="white" stroke-width="5"/>
+<path d="M320 0V1024" stroke="white" stroke-width="5"/>
+<path d="M512 0V1024" stroke="white" stroke-width="5"/>
+<path d="M704 0V1024" stroke="white" stroke-width="5"/>
+<path d="M0 704H1024" stroke="white" stroke-width="5"/>
+<path d="M0 512H1024" stroke="white" stroke-width="5"/>
+<path d="M0 320H1024" stroke="white" stroke-width="5"/>
+<path d="M69.1196 69.1204L954.88 954.88" stroke="white" stroke-width="5"/>
+<path d="M69.1196 954.88L954.88 69.1204" stroke="white" stroke-width="5"/>
 </g>
 <g filter="url(#filter0_d)">
 <path d="M663.014 701.576H719.068V745.118H633.485L491.681 532.579H416.108V701.576H490.013V745.118H304V701.576H367.895V327.047L304 319.207V278C328.19 283.505 349.21 287.342 375.569 287.342C415.274 287.342 455.813 278 495.518 278C572.593 278 644.162 313.034 644.162 398.617C644.162 464.847 604.457 506.888 542.898 524.739L663.014 701.576ZM416.108 490.539L456.648 491.373C555.577 492.874 593.613 454.838 593.613 404.122C593.613 344.898 550.739 321.542 496.353 321.542C470.661 321.542 444.136 323.878 416.108 327.047V490.539Z" fill="white"/>

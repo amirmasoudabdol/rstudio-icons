@@ -24,14 +24,13 @@ Note that this is a temporary solution, and after reinstalling or updating the R
 
 ### Windows
 
-While I specifically designed these icons for macOS, you can still use them on Windows too. Since I do not have a Windows machine and it's been a while that I have worked with them, I cannot tell you how to change your icon. Please Google it! 🔎 
-
-I know this much that you need the `.ICO` files, and you can find them in the `Icons/Windows` folder.
+While I specifically designed these icons for macOS, you can still use them on Windows too. Since I do not have a Windows machine and it's been a while that I have worked with them, I cannot tell you how to change your icon. Please Google it! 🔎 I know this much that you need the `.ICO` files, and you can find them in the `Icons/Windows` folder. 
 
 ### On Linux
 
 On Linux, you really need to Google it! It is different from distro to distro. As far as I know, on Linux you need to use the PNG file. You can find them in the `Icons/Linux` folder. Good luck! 🍀
 
+**Note:** I recommend to use either the rectangular or round icons on Windows or Linux. I think they are a better fit than the Big Sur icons.
 
 ## Contribution
 
