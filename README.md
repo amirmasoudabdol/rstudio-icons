@@ -4,6 +4,10 @@ These are set of alternative icons for RStudio specifically designed to fit macO
 
 <img src="img/all-icons.png"/>
 
+<img src="img/round-and-rect-icons.png" width="50%" align="right"/>
+Besides the Big Sur icons, you can find a circular and rectangular variants of the icons as well. These might be more suitable for Windows or Linux systems.
+
+
 ## Usage
 
 ### macOS
@@ -27,9 +31,14 @@ I know this much that you need the `.ICO` files, and you can find them in the `I
 
 On Linux, you really need to Google it! It is different from distro to distro. As far as I know, on Linux you need to use the PNG file. You can find them in the `src/PNG` folder. Good luck! 🍀
 
+
 ## Contribution
 
 Please let me know if you have noticed any issues with any of the icons. 
+
+## TODO
+
+- [ ] If you happen to know a nice way of incorporating the 
 
 ## Support
 
