@@ -1,6 +1,6 @@
 # Alternative Icons for RStudio
 
-These are set of alternative icons for RStudio specifically designed to fit macOS Big Sur aesthetic. Their main features are rounded bezels, mild drop shodows and some gradients. I have tried to keep them as close as possible to the original icons. In addition to the original icons and their variants listed [here](https://www.rstudio.com/about/logos/), I have designed three extra icons, the Pride, the Trans, and the Preview icons.
+These are a set of alternative icons for RStudio, specifically designed to fit macOS Big Sur aesthetic. Their main features are rounded bezels, gentle drop shodows and some gradients. I have tried to keep them as close as possible to the original icons but that's not always the case. In addition to the original icons and their variants listed [here](https://www.rstudio.com/about/logos/), I have designed three extra icons, the Pride, the Trans, and the Preview icons.
 
 <img src="img/all-icons.png"/>
 
