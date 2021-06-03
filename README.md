@@ -37,10 +37,10 @@ On Linux, you really need to Google it! It is different from distro to distro. A
 
 Please let me know if you have noticed any issues with any of the icons. 
 
-## TODO
+## Known Issues
 
-- [ ] If you happen to know a nice way of incorporating the 
+- I would like to use the white 'R' in the Trans flag icon but that's a bit tricky. If you happen to know how to do that nicely, please let me know.
 
 ## Support
 
-You can always support my project through GitHub Sponsorship project. Find the 💖 button in this page, and either sponsor me monthly, or make a one-time donation. I would really appriciate it! 🙂 🙏🏼
+You can always support my project through GitHub Sponsorship project. Find the 💖 button on top of this page, and either support me monthly, or make a one-time donation. You can also [buy me a coffee](https://ko-fi.com/amirmasoudabdol). I would really appriciate it! 🙂 🙏🏼 
