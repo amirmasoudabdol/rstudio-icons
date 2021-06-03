@@ -30,7 +30,7 @@ I know this much that you need the `.ICO` files, and you can find them in the `I
 
 ### On Linux
 
-On Linux, you really need to Google it! It is different from distro to distro. As far as I know, on Linux you need to use the PNG file. You can find them in the `src/PNG` folder. Good luck! 🍀
+On Linux, you really need to Google it! It is different from distro to distro. As far as I know, on Linux you need to use the PNG file. You can find them in the `Icons/Linux` folder. Good luck! 🍀
 
 
 ## Contribution
